@@ -3,7 +3,7 @@
 # Olá, eu sou o Cleidy! 👋
 
 ### Desenvolvedor Full Stack | Backend Enthusiast
-Atualmente, foco em arquitetura de microsserviços e desenvolvimento backend de alta performance.
+desenvolvimento backend.
 
 ---
 
@@ -18,16 +18,4 @@ No meu dia a dia, trabalho com um ecossistema variado de linguagens e frameworks
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
----
----
-
-### 🌐 Conecte-se comigo
-
-Adoro trocar ideias sobre tecnologia e novos projetos. Vamos conversar?
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINK_AQUI)
-[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SEU_LINK_AQUI)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
-
----
 ---
